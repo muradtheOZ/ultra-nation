@@ -1,0 +1,7 @@
+.country-display{
+    
+}
+.country-display img{
+    width: 150px;
+    object-fit: contain;
+}
